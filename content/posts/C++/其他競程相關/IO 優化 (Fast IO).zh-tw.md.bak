@@ -2,6 +2,8 @@
 title: "IO 優化 (Fast IO)"
 date: 2022-04-27T22:06:49+08:00
 draft: true
+tags:
+- CP
 ---
 
 在程式競賽中，偶爾會看到輸入輸出量較大的題目建議參賽者使用 `scanf()` 和 `printf()` 以避免TLE，或者使用 `cin` 和 `cout` 時加入：
