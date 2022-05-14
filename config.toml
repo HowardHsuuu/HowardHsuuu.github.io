@@ -1,0 +1,112 @@
+baseURL = "https://howardhsuuu.github.io/howardcodelabs/"
+languageCode = 'en-us'
+title = "Howard's Codelabs"
+paginate = 10
+theme = "PaperMod"
+enableRobotsTXT = true
+defaultContentLanguage = 'zh-tw'
+
+[params]
+	disableThemeToggle = true
+	defaultTheme = "dark"
+	ShowShareButtons = true
+	ShowReadingTime = true
+	ShowCodeCopyButtons = true
+	showtoc = true
+	ShareButtons = ["twitter", "facebook"]
+	hidefooter = true
+	ShowPostNavLinks = true
+	ShowBreadCrumbs = true
+
+	
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+
+[languages.zh-tw]
+languageName = "Chinese"
+languageAltTitle = "Chinese"
+weight = 1
+
+[languages.zh-tw.taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+#[[languages.zh-tw.menu.main]]
+#name = "Archive"
+#url = "archives/"
+#weight = 5
+
+[[languages.zh-tw.menu.main]]
+name = "Search"
+url = "search/"
+weight = 3
+
+[[languages.zh-tw.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 2
+
+[[languages.zh-tw.menu.main]]
+name = "Topics"
+url = "posts/"
+weight = 1
+
+[languages.zh-tw.homeInfoParams]
+	Title = "Welcome !"
+	Content = "You can find me on ..."
+	
+[[languages.zh-tw.socialIcons]]
+	name = "Github"
+	url = "https://github.com/HowardHsuuu"
+[[languages.zh-tw.socialIcons]]
+	name = "Youtube"
+	url = "https://www.youtube.com/channel/UCqEuyuFZf_D6axUYcGZc9vg"
+[[languages.zh-tw.socialIcons]]
+	name = "Instagram"
+	url = "https://www.instagram.com/howard_codelabs/"
+
+
+
+
+
+[languages.en]
+languageName = "English"
+languageAltTitle = "English"
+weight = 2
+title = "Howard's Codelabs"
+
+[languages.en.taxonomies]
+category = "FRcategories"
+tag = "FRtags"
+series = "FRseries"
+
+#[[languages.en.menu.main]]
+#name = "Archive"
+#url = "archives/"
+#weight = 5
+
+[[languages.en.menu.main]]
+name = ""
+url = "entags"
+weight = 10
+
+[[languages.en.menu.main]]
+name = ""
+url = "encategories"
+weight = 10
+
+[[languages.en.menu.main]]
+name = ""
+url = "enseries"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+[languages.en.homeInfoParams]
+Title = "Coming Soon~"
