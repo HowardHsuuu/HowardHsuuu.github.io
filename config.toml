@@ -19,7 +19,7 @@ defaultContentLanguage = 'zh-tw'
 	ShowBreadCrumbs = true
 
 [params.label]
-	text = "Home"
+	text = "Howard's Codelabs"
 	icon = "/image/icon.PNG"
 	iconHeight = 35
 	

@@ -1,4 +1,4 @@
-baseURL = "https://howardhsuuu.github.io/"
+baseURL = "https://HowardHsuuu.github.io/"
 languageCode = 'en-us'
 title = "Howard's Codelabs"
 paginate = 10
@@ -18,6 +18,10 @@ defaultContentLanguage = 'zh-tw'
 	ShowPostNavLinks = true
 	ShowBreadCrumbs = true
 
+[params.label]
+	text = "Home"
+	icon = "/image/icon.PNG"
+	iconHeight = 35
 	
 
 [outputs]
