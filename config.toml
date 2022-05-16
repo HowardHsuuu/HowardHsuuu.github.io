@@ -1,4 +1,4 @@
-baseURL = "https://howardhsuuu.github.io/howardcodelabs/"
+baseURL = "https://HowardHsuuu.github.io/"
 languageCode = 'en-us'
 title = "Howard's Codelabs"
 paginate = 10
