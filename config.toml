@@ -18,6 +18,10 @@ defaultContentLanguage = 'zh-tw'
 	ShowPostNavLinks = true
 	ShowBreadCrumbs = true
 
+[params.label]
+	text = "Home"
+	icon = "/image/icon.PNG"
+	iconHeight = 35
 	
 
 [outputs]
