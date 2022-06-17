@@ -1,7 +1,7 @@
 ---
 title: "Disjoint Set Union (DSU)"
 date: 2022-04-27T22:06:49+08:00
-draft: true
+draft: false
 tags:
 - DSU
 ---
@@ -37,6 +37,7 @@ int find(int i){
 ```C++=3
     return boss[i] = find(boss[i]); //路徑壓縮
 ```
+{{< youtube r8yaPop5a1g >}}
 ### 合併兩節點所在集合 --- Union()
 
 要使兩個集合合併(以A集合融入B集合為例)，只要讓A集合的「最上層」指向B集合的「最上層」並更新B集合的大小即可。參考程式：
