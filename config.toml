@@ -19,9 +19,16 @@ math = true
 	ShowPostNavLinks = true
 	ShowBreadCrumbs = true
 
+[params.assets]
+	favicon = "/image/icon.png"
+	favicon16x16 = "/image/icon-16.png"
+	favicon32x32 = "/image/icon-32.png"
+	apple_touch_icon = "/image/icon.png"
+	safari_pinned_tab = "/image/icon.png"
+
 [params.label]
 	text = "Howard's Codelabs"
-	icon = "/image/icon.PNG"
+	icon = "/image/icon.png"
 	iconHeight = 35
 	
 
