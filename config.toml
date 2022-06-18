@@ -6,6 +6,7 @@ theme = "PaperMod"
 enableRobotsTXT = true
 defaultContentLanguage = 'zh-tw'
 math = true
+googleAnalytics = "G-JSSWLG4HLP"
 
 [params]
 	disableThemeToggle = true

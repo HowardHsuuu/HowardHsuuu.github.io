@@ -20,15 +20,15 @@ math = true
 	ShowBreadCrumbs = true
 
 [params.assets]
-	favicon = "/image/icon.png"
-	favicon16x16 = "/image/icon-16.png"
-	favicon32x32 = "/image/icon-32.png"
-	apple_touch_icon = "/image/icon.png"
-	safari_pinned_tab = "/image/icon.png"
+	favicon = "/images/icon.png"
+	favicon16x16 = "/images/icon-16.png"
+	favicon32x32 = "/images/icon-32.png"
+	apple_touch_icon = "/images/icon.png"
+	safari_pinned_tab = "/images/icon.png"
 
 [params.label]
 	text = "Howard's Codelabs"
-	icon = "/image/icon.png"
+	icon = "/images/icon.png"
 	iconHeight = 35
 	
 
