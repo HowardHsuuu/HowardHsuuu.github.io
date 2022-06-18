@@ -5,6 +5,7 @@ paginate = 10
 theme = "PaperMod"
 enableRobotsTXT = true
 defaultContentLanguage = 'zh-tw'
+math = true
 
 [params]
 	disableThemeToggle = true
