@@ -46,7 +46,7 @@ int main(){
 
 ### 換你試試看
 
-* 試一下 `cout<< "1 + 1 = " << 1 + 1 <<endl;` 的結果
+* 試試看 `cout<< "1 + 1 = " << 1 + 1 <<endl;` 的結果
 <details>
     <summary>Output</summary>
     1 + 1 = 2
