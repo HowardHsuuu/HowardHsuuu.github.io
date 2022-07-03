@@ -3,7 +3,7 @@ title: "Hello World - C++的基本架構"
 date: 2022-06-28T20:00:46+08:00
 draft: false
 tags:
-- CP
+- C++
 ---
 ## 程式基本架構
 
@@ -29,7 +29,14 @@ int main(){
 ---
 ## 輸出 - 第一支程式 Hello World !
 
-從題目給的資料大小範圍、使用的演算法等條件預估出這隻程式中將出現的最大數值大概是多少，那麼只要確保「無限大」的設置恆大於這個預估可能出現的最大數值即可。
-優點大概是不用多背東西，缺點則是每次都要花時間思考又容易因為粗心或不夠了解演算法而設置不夠大的「無限大」，導致執行過程出現BUG。
+```c++=1
+#include <iostream>
+using namespace std;
+
+int main(){
+	cout<<"Hello World !"<<endl;
+	return 0;
+}
+```
 
 ---
