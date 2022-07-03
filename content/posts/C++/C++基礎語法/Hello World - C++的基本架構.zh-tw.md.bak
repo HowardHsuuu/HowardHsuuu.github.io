@@ -44,13 +44,14 @@ int main(){
 1. 以 `"` 包起來的是字串。(有關資料型態下章會介紹)
 1. 除了字串，`cout` 還可輸出數字、運算式等。
 
+###Output
+
+```c++=1
+Hello World !
+```
+
 ### 換你試試看
 
 * 試試看 `cout<< "1 + 1 = " << 1 + 1 <<endl;` 的結果
-<details>
-    <summary>Output</summary>
-    1 + 1 = 2
-	
-</details>
 
 ---
