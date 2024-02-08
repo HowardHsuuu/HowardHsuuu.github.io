@@ -1,0 +1,63 @@
+baseURL: https://HowardHsuuu.github.io/
+languageCode: en-us
+defaultContentLanguage: en-us
+title: Howard's Blog
+paginate: 5
+theme: PaperMod
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 20
+        - name: Topics
+          url: posts/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 15
+  zh-hant:
+    languageName: "Traditional Chinese"
+    disabled: true
+params:
+  env: production
+  defaultTheme: dark
+  disableThemeToggle: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButton: true
+  assets:
+    favicon: /images/icon.png
+    favicon16x16: /images/icon-16x16.png
+    favicon32x32: /images/icon-32x32.png
+    apple_touch_icon: /images/icon.png
+    safari_pinned_tab: /images/icon.png
+  label:
+    text: Howard's Blog
+    icon: /images/icon.png
+    iconHeight: 45
+  homeInfoParams:
+    Title: H
+    Content: H
+  socialIcons:
+    - name: "facebook"
+      url: "https://HowardHsuuu.github.io/"
+  contact:
+    email: howardhsuuu@gmail.com
+
+output:
+  home:
+    - HTML
+    - RSS
+    - JSON
