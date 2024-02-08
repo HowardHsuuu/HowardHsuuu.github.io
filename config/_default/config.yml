@@ -5,7 +5,7 @@ title: Howard's Blog
 paginate: 5
 theme: PaperMod
 languages:
-  en:
+  en-us:
     languageName: "English"
     weight: 1
     taxonomies:
