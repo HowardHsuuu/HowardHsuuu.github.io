@@ -17,15 +17,15 @@ languages:
         - name: Archive
           url: archives
           weight: 5
-        - name: Search
-          url: search/
-          weight: 20
+#        - name: Search
+#          url: search/
+#          weight: 20
         - name: Topics
           url: posts/
           weight: 10
-        - name: Tags
-          url: tags/
-          weight: 15
+#        - name: Tags
+#          url: tags/
+#          weight: 15
   zh-hant:
     languageName: "Traditional Chinese"
     disabled: true
