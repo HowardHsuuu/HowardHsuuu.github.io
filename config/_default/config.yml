@@ -46,7 +46,7 @@ params:
   label:
     text: Howard's Blog
     icon: /images/icon.png
-    iconHeight: 45
+    iconHeight: 35
   homeInfoParams:
     Title: H
     Content: H
