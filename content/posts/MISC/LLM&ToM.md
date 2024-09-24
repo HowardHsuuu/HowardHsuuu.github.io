@@ -54,7 +54,9 @@ The presence of embeddings that displayed modulations related to the ToM content
 
 Both systems (Human Brain and LLM) contain neurons that directly respond to the perspective of others. A substantial proportion of artificial neurons responds selectively to true- or false-belief trials, mirroring prefrontal neurons in humans exhibiting changes in firing rates for different trial types.
 ### Parallel 2 - Distribution of ToM-responding neurons
-LLM layers with high percentages of ToM responding embeddings showed a peak in the middle and high layers and almost zero in the input layers. Similar distributed areas can be identified in the human brain as the frontal, temporal and parietal cortices are regarded as regions for high-level cognitive processing. (ToM-related activity within lower input processing areas such as occipital lobe is minimal) Also, they observed the artificial layers exhibiting ToM responses were located in contiguous layers, which is analogous to the highly interconnected structure of ToM brain areas.
+* LLM layers with high percentages of ToM responding embeddings showed a peak in the middle and high layers and almost zero in the input layers constantly (neither confined to one layer nor randomly distributed). 
+* Similar distributed areas can be identified in the human brain as the frontal, temporal and parietal cortices are regarded as regions for high-level cognitive processing. (ToM-related activity within lower input processing areas such as occipital lobe is minimal) 
+* Also, they observed the artificial layers exhibiting ToM responses were located in contiguous layers, which is analogous to the highly interconnected structure of ToM brain areas.
 ### Other conclusions
 * LLM had higher accuracies when tested with facts and beliefs in true-belief trials compared to false-belief trials. (larger models did better, especially for false-belief trials)
 * As the size of the models increase, the decoding accuracies, the percentages of significant neurons and ToM performances all increased.
@@ -62,7 +64,7 @@ LLM layers with high percentages of ToM responding embeddings showed a peak in t
 1. The study was limited to open-source LLMs. Future research could examine higher-performing, proprietary models like GPT-4.
 2. The methods excluded embeddings that were selective to both true- and false-belief trials, focusing only on those selective to one type. This could be expanded in future studies.
 3. While the parallels between LLMs and human brains are striking, the underlying mechanisms of ToM in LLMs are still not fully understood and require further investigation.
-4. The study doesn't address how LLMs develop ToM capabilities without direct social interaction, unlike humans. This could be an interesting area for future research.
+4. The study doesn't address how LLMs develop ToM capabilities without direct social interaction or any special training, unlike humans. This could be an interesting area for future research. (suggests that ToM might be an emergent property of advanced language processing systems.)
 
 ---
 
