@@ -1,8 +1,10 @@
 baseURL: https://HowardHsuuu.github.io/
 languageCode: en-us
 defaultContentLanguage: en-us
-title: Howard's Blog
-paginate: 5
+title: My Notes
+#title: Howard's Blog
+pagination:
+  PagerSize: 5
 theme: PaperMod
 languages:
   en-us:
@@ -23,6 +25,9 @@ languages:
         - name: Topics
           url: posts/
           weight: 10
+#        - name: About Me
+#          url: aboutme/
+#          weight: 20
 #        - name: Tags
 #          url: tags/
 #          weight: 15
@@ -32,7 +37,7 @@ languages:
 params:
   env: production
   defaultTheme: dark
-  disableThemeToggle: true
+  disableThemeToggle: false
   ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
@@ -44,15 +49,16 @@ params:
     apple_touch_icon: /images/icon.png
     safari_pinned_tab: /images/icon.png
   label:
-    text: Howard's Blog
+    #text: Howard's Blog
+    text: My Notes
     icon: /images/icon.png
     iconHeight: 35
   homeInfoParams:
-    Title: H
-    Content: H
+    Title: 
+    Content: 
   socialIcons:
-    - name: "facebook"
-      url: "https://HowardHsuuu.github.io/"
+#    - name: "email"
+#      url: ""
   contact:
     email: howardhsuuu@gmail.com
 
