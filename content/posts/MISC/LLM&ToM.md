@@ -21,6 +21,9 @@ A complex cognitive capacity related to our conscious mind and mental state that
 > These neurons displayed a consistent difference in their firing rates when the other's beliefs were true compared to when the other's beliefs were false. These neurons therefore reliably changed their activities in relation to the other's beliefs despite variations in the specific statements and scenarios within each trial type, providing evidence for the specific tuning of human neurons to ToM computations.
 ### Some Premises
 LLM is proven to exhibit a certain level of ToM. (The January 2022 version of GPT3 (davinci-002) has a performance comparable with that of seven-year-old children, while the November 2022 version (davinci-003) has a performance comparable with that of nine-year-old children.)
+
+---
+
 ## Goal
 To draw, with the inspiration of dmPFC, a parallel between the reaction of LLM and the human brain when tested with ToM.
 ## Method
@@ -60,6 +63,9 @@ LLM layers with high percentages of ToM responding embeddings showed a peak in t
 2. The methods excluded embeddings that were selective to both true- and false-belief trials, focusing only on those selective to one type. This could be expanded in future studies.
 3. While the parallels between LLMs and human brains are striking, the underlying mechanisms of ToM in LLMs are still not fully understood and require further investigation.
 4. The study doesn't address how LLMs develop ToM capabilities without direct social interaction, unlike humans. This could be an interesting area for future research.
+
+---
+
 ## Reference
 * this paper: https://arxiv.org/abs/2309.01660
 * some of the papers cited in this paper
