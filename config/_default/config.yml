@@ -57,10 +57,8 @@ params:
     Title: 
     Content: 
   socialIcons:
-#    - name: "email"
-#      url: ""
-  contact:
-    email: howardhsuuu@gmail.com
+    - name: "email"
+      url: ""
 
 output:
   home:

@@ -1,12 +1,13 @@
 ---
-title: "[LR] Unveiling Theory of Mind in Large Language Models"
+title: "[LR]  Unveiling Theory of Mind in Large Language Models"
 date: 2024-09-23T19:24:43+08:00
 draft: false
 ---
 
-arXiv:2309.01660 <br>
-Title: Unveiling Theory of Mind in Large Language Models: A Parallel to Single Neurons in the Human Brain <br>
-Author: Mohsen Jamali and Ziv M. Williams and Jing Cai <br>
+Paper Info
+> arXiv:2309.01660  
+> Title: Unveiling Theory of Mind in Large Language Models: A Parallel to Single Neurons in the Human Brain  
+> Author: Mohsen Jamali and Ziv M. Williams and Jing Cai  
 
 ## Prior Knowledge
 ### Theory of Mind (ToM)
@@ -73,8 +74,8 @@ Both systems (Human Brain and LLM) contain neurons that directly respond to the 
 ---
 
 ## Reference
-* this paper: https://arxiv.org/abs/2309.01660
-* some of the papers cited in this paper
+* The paper: https://arxiv.org/abs/2309.01660
+* Some of the papers cited in this paper
 	1. https://www.nature.com/articles/s41586-021-03184-0
 	2. https://arxiv.org/vc/arxiv/papers/2302/2302.02083v1.pdf
-* This article is written with the assistance of ChatGPT and quotes from the original paper
+* This Note is written with the assistance of Generative AI and quotes from the original paper
