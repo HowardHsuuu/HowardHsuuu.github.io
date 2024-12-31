@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Literature Review on My Notes</title><link>https://HowardHsuuu.github.io/posts/lr/</link><description>Recent content in Literature Review on My Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 19:24:43 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/posts/lr/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] Unveiling Theory of Mind in Large Language Models</title><link>https://HowardHsuuu.github.io/posts/lr/llmtom/</link><pubDate>Mon, 23 Sep 2024 19:24:43 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/llmtom/</guid><description>&lt;p>Paper Info&lt;/p>
+&lt;blockquote>
+&lt;p>arXiv:2309.01660&lt;br>
+Title: Unveiling Theory of Mind in Large Language Models: A Parallel to Single Neurons in the Human Brain&lt;br>
+Author: Mohsen Jamali and Ziv M. Williams and Jing Cai&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;h3 id="theory-of-mind-tom">Theory of Mind (ToM)&lt;/h3>
+&lt;p>A complex cognitive capacity related to our conscious mind and mental state that allows us to infer another&amp;rsquo;s beliefs and perspective. Through ToM, human can create intricate mental representations of other agents and realize that others may have beliefs that&amp;rsquo;s different from our own or the objective reality.&lt;/p></description></item></channel></rss>
