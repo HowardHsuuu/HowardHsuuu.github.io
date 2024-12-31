@@ -42,6 +42,7 @@ params:
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowCodeCopyButton: true
+  social: true
   assets:
     favicon: /images/icon.png
     favicon16x16: /images/icon-16x16.png
