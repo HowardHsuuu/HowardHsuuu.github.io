@@ -1,8 +1,12 @@
 ---
-title: "Notes on \"Unveiling Theory of Mind in Large Language Models: A Parallel to Single Neurons in the Human Brain\""
+title: "[LR] Unveiling Theory of Mind in Large Language Models"
 date: 2024-09-23T19:24:43+08:00
 draft: false
 ---
+
+arXiv:2309.01660 <br>
+Title: Unveiling Theory of Mind in Large Language Models: A Parallel to Single Neurons in the Human Brain <br>
+Author: Mohsen Jamali and Ziv M. Williams and Jing Cai <br>
 
 ## Prior Knowledge
 ### Theory of Mind (ToM)
