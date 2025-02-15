@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SSVEP on My Notes</title><link>https://HowardHsuuu.github.io/tags/ssvep/</link><description>Recent content in SSVEP on My Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2024 20:32:51 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/ssvep/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] Binocular Vision SSVEP BCI for Dual-Frequency Modulation</title><link>https://HowardHsuuu.github.io/posts/lr/ssvep-bci/</link><pubDate>Sat, 12 Oct 2024 20:32:51 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/ssvep-bci/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;p>Paper Info&lt;/p>
+&lt;blockquote>
+&lt;p>DOI: 10.1109/TBME.2022.3212192&lt;br>
+Title: A Binocular Vision SSVEP Brain–Computer Interface Paradigm for Dual-Frequency Modulation&lt;br>
+Authors: Yike Sun, Liyan Liang, Jingnan Sun, Xiaogang Chen, Runfa Tian, Yuanfang Chen, Lijian Zhang, and Xiaorong Gao&lt;/p>&lt;/blockquote>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>SSVEP and BCIs:&lt;/strong> Steady-State Visual Evoked Potentials (SSVEPs) are brain responses elicited by periodic visual stimuli. Their robustness and high signal-to-noise ratio make them a cornerstone in non-invasive BCI research&lt;/li>
+&lt;li>&lt;strong>Dual-Frequency Stimulation:&lt;/strong> Traditional dual-frequency paradigms, such as the checkerboard arrangement, allow the encoding of more targets but are hampered by intermodulation artifacts, which can compromise signal quality.&lt;/li>
+&lt;li>&lt;strong>Binocular Vision Approach:&lt;/strong> By using circularly polarized light to deliver different frequencies to each eye, the binocular vision paradigm minimizes interference from intermodulation harmonics, thereby enhancing signal fidelity.&lt;/li>
+&lt;/ul>
+&lt;h2 id="goal">Goal&lt;/h2>
+&lt;p>To design and evaluate a novel dual-frequency SSVEP paradigm based on binocular vision that suppresses intermodulation harmonics and enhances overall BCI performance, particularly in training-free applications.&lt;/p></description></item></channel></rss>

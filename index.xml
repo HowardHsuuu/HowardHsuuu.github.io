@@ -1,9 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Notes</title><link>https://HowardHsuuu.github.io/</link><description>Recent content on My Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 19:24:43 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] Unveiling Theory of Mind in Large Language Models</title><link>https://HowardHsuuu.github.io/posts/lr/llmtom/</link><pubDate>Mon, 23 Sep 2024 19:24:43 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/llmtom/</guid><description>&lt;p>Paper Info&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Notes</title><link>https://HowardHsuuu.github.io/</link><description>Recent content on My Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2024 20:32:51 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] Binocular Vision SSVEP BCI for Dual-Frequency Modulation</title><link>https://HowardHsuuu.github.io/posts/lr/ssvep-bci/</link><pubDate>Sat, 12 Oct 2024 20:32:51 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/ssvep-bci/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;p>Paper Info&lt;/p>
+&lt;blockquote>
+&lt;p>DOI: 10.1109/TBME.2022.3212192&lt;br>
+Title: A Binocular Vision SSVEP Brain–Computer Interface Paradigm for Dual-Frequency Modulation&lt;br>
+Authors: Yike Sun, Liyan Liang, Jingnan Sun, Xiaogang Chen, Runfa Tian, Yuanfang Chen, Lijian Zhang, and Xiaorong Gao&lt;/p>&lt;/blockquote>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>SSVEP and BCIs:&lt;/strong> Steady-State Visual Evoked Potentials (SSVEPs) are brain responses elicited by periodic visual stimuli. Their robustness and high signal-to-noise ratio make them a cornerstone in non-invasive BCI research&lt;/li>
+&lt;li>&lt;strong>Dual-Frequency Stimulation:&lt;/strong> Traditional dual-frequency paradigms, such as the checkerboard arrangement, allow the encoding of more targets but are hampered by intermodulation artifacts, which can compromise signal quality.&lt;/li>
+&lt;li>&lt;strong>Binocular Vision Approach:&lt;/strong> By using circularly polarized light to deliver different frequencies to each eye, the binocular vision paradigm minimizes interference from intermodulation harmonics, thereby enhancing signal fidelity.&lt;/li>
+&lt;/ul>
+&lt;h2 id="goal">Goal&lt;/h2>
+&lt;p>To design and evaluate a novel dual-frequency SSVEP paradigm based on binocular vision that suppresses intermodulation harmonics and enhances overall BCI performance, particularly in training-free applications.&lt;/p></description></item><item><title>[LR] Interfacing with Lucid Dreams</title><link>https://HowardHsuuu.github.io/posts/lr/lucid-interface/</link><pubDate>Wed, 25 Sep 2024 20:33:52 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/lucid-interface/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;p>Paper Info - LuciEntry&lt;/p>
+&lt;blockquote>
+&lt;p>DOI: 10.1145/3613905.3649123
+Title: LuciEntry: A Modular Lab-based Lucid Dreaming Induction Prototype
+Authors: Po-Yao (Cosmos) Wang, Nathaniel Lee Yung Xiang, Rohit Rajesh, Antony Smith Loose, Nathan Semertzidis, and Florian ‘Floyd’ Mueller&lt;/p>&lt;/blockquote>
+&lt;p>Paper Info - DreamCeption&lt;/p>
+&lt;blockquote>
+&lt;p>DOI: 10.1145/3613905.3649121
+Title: DreamCeption: Towards Understanding the Design of Targeted Lucid Dream Mediation
+Authors: Po-Yao (Cosmos) Wang, Rohit Rajesh, Antony Smith Loose, Nathaniel Lee Yung Xiang, Nathalie Overdevest, Nathan Semertzidis, and Florian ‘Floyd’ Mueller&lt;/p></description></item><item><title>[LR] Unveiling Theory of Mind in Large Language Models</title><link>https://HowardHsuuu.github.io/posts/lr/llm-tom/</link><pubDate>Mon, 23 Sep 2024 19:24:43 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/llm-tom/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;p>Paper Info&lt;/p>
 &lt;blockquote>
 &lt;p>arXiv:2309.01660&lt;br>
 Title: Unveiling Theory of Mind in Large Language Models: A Parallel to Single Neurons in the Human Brain&lt;br>
-Author: Mohsen Jamali and Ziv M. Williams and Jing Cai&lt;/p>
-&lt;/blockquote>
+Author: Mohsen Jamali and Ziv M. Williams and Jing Cai&lt;/p>&lt;/blockquote>
 &lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
-&lt;h3 id="theory-of-mind-tom">Theory of Mind (ToM)&lt;/h3>
-&lt;p>A complex cognitive capacity related to our conscious mind and mental state that allows us to infer another&amp;rsquo;s beliefs and perspective. Through ToM, human can create intricate mental representations of other agents and realize that others may have beliefs that&amp;rsquo;s different from our own or the objective reality.&lt;/p></description></item><item><title>Howard Hsu</title><link>https://HowardHsuuu.github.io/aboutme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://HowardHsuuu.github.io/aboutme/</guid><description/></item></channel></rss>
+&lt;ul>
+&lt;li>&lt;strong>Theory of Mind (ToM)&lt;/strong>:
+A complex cognitive capacity related to our conscious mind and mental state that allows us to infer another&amp;rsquo;s beliefs and perspective. Through ToM, human can create intricate mental representations of other agents and realize that others may have beliefs that&amp;rsquo;s different from our own or the objective reality.&lt;/li>
+&lt;li>&lt;strong>True- and False-belief Task&lt;/strong>
+&lt;ul>
+&lt;li>True-belief task: assesses whether someone understands that some other people&amp;rsquo;s believes is correctly aligned with reality.&lt;/li>
+&lt;li>False-belief task: assesses whether someone understands that some other people&amp;rsquo;s believes is &lt;strong>not&lt;/strong> correctly aligned with reality. (ex: belief diverges from reality after a change to the environment that one did not witness.)&lt;/li>
+&lt;li>A critical test for ToM is the false belief task.&lt;/li>
+&lt;li>Both tasks are evaluated by providing the participant a scenario and asking the participant &amp;ldquo;fact questions&amp;rdquo; and &amp;ldquo;belief questions&amp;rdquo;, which are about the reality and the belief of some character in the scenario respectively.&lt;/li>
+&lt;li>These tasks are designed to test if the individual can attribute mental states (including potentially false beliefs) to others in general.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>ToM in the human brain&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Human brain imaging studies have provided substantial evidence for the brain network that supports our ToM ability, including the temporalparietal junction, superior temporal sulcus and the dorsal medial prefrontal cortex (dmPFC)&lt;/p></description></item><item><title>Howard Hsu</title><link>https://HowardHsuuu.github.io/aboutme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://HowardHsuuu.github.io/aboutme/</guid><description/></item></channel></rss>

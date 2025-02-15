@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cognitive Neuroscience on My Notes</title><link>https://HowardHsuuu.github.io/tags/cognitive-neuroscience/</link><description>Recent content in Cognitive Neuroscience on My Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 19:24:43 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/cognitive-neuroscience/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] Unveiling Theory of Mind in Large Language Models</title><link>https://HowardHsuuu.github.io/posts/lr/llm-tom/</link><pubDate>Mon, 23 Sep 2024 19:24:43 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/llm-tom/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;p>Paper Info&lt;/p>
+&lt;blockquote>
+&lt;p>arXiv:2309.01660&lt;br>
+Title: Unveiling Theory of Mind in Large Language Models: A Parallel to Single Neurons in the Human Brain&lt;br>
+Author: Mohsen Jamali and Ziv M. Williams and Jing Cai&lt;/p>&lt;/blockquote>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Theory of Mind (ToM)&lt;/strong>:
+A complex cognitive capacity related to our conscious mind and mental state that allows us to infer another&amp;rsquo;s beliefs and perspective. Through ToM, human can create intricate mental representations of other agents and realize that others may have beliefs that&amp;rsquo;s different from our own or the objective reality.&lt;/li>
+&lt;li>&lt;strong>True- and False-belief Task&lt;/strong>
+&lt;ul>
+&lt;li>True-belief task: assesses whether someone understands that some other people&amp;rsquo;s believes is correctly aligned with reality.&lt;/li>
+&lt;li>False-belief task: assesses whether someone understands that some other people&amp;rsquo;s believes is &lt;strong>not&lt;/strong> correctly aligned with reality. (ex: belief diverges from reality after a change to the environment that one did not witness.)&lt;/li>
+&lt;li>A critical test for ToM is the false belief task.&lt;/li>
+&lt;li>Both tasks are evaluated by providing the participant a scenario and asking the participant &amp;ldquo;fact questions&amp;rdquo; and &amp;ldquo;belief questions&amp;rdquo;, which are about the reality and the belief of some character in the scenario respectively.&lt;/li>
+&lt;li>These tasks are designed to test if the individual can attribute mental states (including potentially false beliefs) to others in general.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>ToM in the human brain&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>Human brain imaging studies have provided substantial evidence for the brain network that supports our ToM ability, including the temporalparietal junction, superior temporal sulcus and the dorsal medial prefrontal cortex (dmPFC)&lt;/p></description></item></channel></rss>
