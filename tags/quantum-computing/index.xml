@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quantum Computing on Notes</title><link>https://HowardHsuuu.github.io/tags/quantum-computing/</link><description>Recent content in Quantum Computing on Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 19:56:26 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] Quixer: A Quantum Transformer Model</title><link>https://HowardHsuuu.github.io/posts/lr/quixer/</link><pubDate>Fri, 27 Sep 2024 19:56:26 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/quixer/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;p>[&lt;strong>Qiix&lt;/strong> at Qiskit Hackathon Taiwan 2024 was inspired by this paper]&lt;/p>
+&lt;p>Paper Info&lt;/p>
+&lt;blockquote>
+&lt;p>arXiv: 2406.04305&lt;br>
+Title: Quixer: A Quantum Transformer Model&lt;br>
+Authors: Nikhil Khatri, Gabriel Matos, Luuk Coopmans, Stephen Clark (Quantinuum)&lt;/p>&lt;/blockquote>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Linear Combination of Unitaries (LCU)&lt;/strong>&lt;br>
+The LCU technique allows the combination of multiple unitary operators into one overall operator using additional control qubits and postselection. Given unitaries $U_0, U_1, \dots, U_{n-1}$ with complex coefficients $b_0, b_1, \dots, b_{n-1}$, one can effectively prepare a block-encoded operator
+$$
+M = \sum_{j=0}^{n-1} b_j U_j.
+$$&lt;/p></description></item></channel></rss>

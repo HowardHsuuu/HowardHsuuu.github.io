@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Virtual Reality on Notes</title><link>https://HowardHsuuu.github.io/tags/virtual-reality/</link><description>Recent content in Virtual Reality on Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 19:56:26 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/virtual-reality/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] Clonemator: Spatiotemporal Clones in VR</title><link>https://HowardHsuuu.github.io/posts/lr/clonemator/</link><pubDate>Fri, 27 Sep 2024 19:56:26 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/clonemator/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;p>[The VR project, &lt;strong>ChronoClones&lt;/strong>, in OpenHCI 2024 was based on this paper]&lt;/p>
+&lt;p>Paper Info&lt;/p>
+&lt;blockquote>
+&lt;p>arXiv: 2311.04427&lt;br>
+Title: Clonemator: Composing Spatiotemporal Clones to Create Interactive Automators in Virtual Reality&lt;br>
+Authors: Yi-Shuo Lin, Ching-Yi Tsai, Lung-Pan Cheng&lt;/p>&lt;/blockquote>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Interaction Techniques in VR&lt;/strong>: Traditional approaches (e.g., Go-Go, portals) focus on specific tasks or single-avatar enhancements. While helpful, these designs rarely offer a broad, integrative way to handle diverse, complex interactions without pre-coded solutions.&lt;/li>
+&lt;li>&lt;strong>Programming by Demonstration (PbD)&lt;/strong>: Non-VR automation tools like Sikuli or Ringer let users capture and replay interactions to automate tasks. However, applying PbD to immersive VR—where physical presence, body movement, and 3D spatial context matter—is underexplored.&lt;/li>
+&lt;/ul>
+&lt;h2 id="goal">Goal&lt;/h2>
+&lt;p>Clonemator aims to let users create and collaborate with virtual “clones” of themselves to accomplish complex or repetitive tasks, all without manual scripting. By allowing clones to be configured across space (e.g., different locations, scales) and time (e.g., static pose, synchronous motion, or replayed actions), the system seeks to empower users to construct flexible, intuitive “automators” for tasks ranging from object manipulation to cooperative assemblies.&lt;/p></description></item></channel></rss>

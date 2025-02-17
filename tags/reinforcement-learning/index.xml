@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reinforcement Learning on Notes</title><link>https://HowardHsuuu.github.io/tags/reinforcement-learning/</link><description>Recent content in Reinforcement Learning on Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 20:32:33 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] TD-MPC2</title><link>https://HowardHsuuu.github.io/posts/lr/tdmpc2/</link><pubDate>Thu, 21 Nov 2024 20:32:33 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/tdmpc2/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;h2 id="paper-info">Paper Info&lt;/h2>
+&lt;blockquote>
+&lt;p>Title: TD-MPC2: Scalable, Robust World Models for Continuous Control&lt;br>
+Authors: Nicklas Hansen, Hao Su, Xiaolong Wang&lt;br>
+Conference: ICLR 2024&lt;br>
+arXiv: 2310.16828&lt;/p>&lt;/blockquote>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Model-Based Reinforcement Learning (MBRL)&lt;/strong>: Uses an internal model of the environment to plan and optimize actions rather than learning policies from direct interaction alone.&lt;/li>
+&lt;li>&lt;strong>Temporal Difference Learning&lt;/strong>: A method in RL that estimates the value function iteratively using bootstrapped learning.&lt;/li>
+&lt;li>&lt;strong>Model Predictive Control (MPC)&lt;/strong>: An optimization framework for selecting actions over a finite horizon using a learned world model.&lt;/li>
+&lt;li>&lt;strong>TD-MPC&lt;/strong>: A prior algorithm that performs local trajectory optimization in the latent space of an implicit world model but lacks scalability and robustness.&lt;/li>
+&lt;/ul>
+&lt;h2 id="goal">Goal&lt;/h2>
+&lt;p>The authors propose &lt;strong>TD-MPC2&lt;/strong>, an extension of the TD-MPC framework, designed to scale reinforcement learning to large, uncurated datasets and generalize across multiple continuous control tasks. The key aims are:&lt;/p></description></item></channel></rss>
