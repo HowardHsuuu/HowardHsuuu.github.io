@@ -8,14 +8,14 @@ tags: ["Human-Computer Interaction"]
 [This review is intended solely for my personal learning]
 
 Paper Info - LuciEntry
-> DOI: 10.1145/3613905.3649123
-> Title: LuciEntry: A Modular Lab-based Lucid Dreaming Induction Prototype
-> Authors: Po-Yao (Cosmos) Wang, Nathaniel Lee Yung Xiang, Rohit Rajesh, Antony Smith Loose, Nathan Semertzidis, and Florian ‘Floyd’ Mueller
+> DOI: 10.1145/3613905.3649123  
+> Title: LuciEntry: A Modular Lab-based Lucid Dreaming Induction Prototype  
+> Authors: Po-Yao (Cosmos) Wang, Nathaniel Lee Yung Xiang, Rohit Rajesh, Antony Smith Loose, Nathan Semertzidis, and Florian ‘Floyd’ Mueller  
 
 Paper Info - DreamCeption
-> DOI: 10.1145/3613905.3649121
-> Title: DreamCeption: Towards Understanding the Design of Targeted Lucid Dream Mediation
-> Authors: Po-Yao (Cosmos) Wang, Rohit Rajesh, Antony Smith Loose, Nathaniel Lee Yung Xiang, Nathalie Overdevest, Nathan Semertzidis, and Florian ‘Floyd’ Mueller
+> DOI: 10.1145/3613905.3649121  
+> Title: DreamCeption: Towards Understanding the Design of Targeted Lucid Dream Mediation  
+> Authors: Po-Yao (Cosmos) Wang, Rohit Rajesh, Antony Smith Loose, Nathaniel Lee Yung Xiang, Nathalie Overdevest, Nathan Semertzidis, and Florian ‘Floyd’ Mueller  
 
 ## Prior Knowledge
 

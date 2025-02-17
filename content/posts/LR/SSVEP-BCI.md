@@ -7,7 +7,7 @@ tags: ["Brain–Computer Interface", "SSVEP"]
 
 [This review is intended solely for my personal learning]
 
-Paper Info  
+Paper Info
 > DOI: 10.1109/TBME.2022.3212192  
 > Title: A Binocular Vision SSVEP Brain–Computer Interface Paradigm for Dual-Frequency Modulation  
 > Authors: Yike Sun, Liyan Liang, Jingnan Sun, Xiaogang Chen, Runfa Tian, Yuanfang Chen, Lijian Zhang, and Xiaorong Gao  

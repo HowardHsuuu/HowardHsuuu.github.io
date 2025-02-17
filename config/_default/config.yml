@@ -1,11 +1,15 @@
 baseURL: https://HowardHsuuu.github.io/
 languageCode: en-us
 defaultContentLanguage: en-us
-title: My Notes
+title: Notes
 #title: Howard's Blog
 pagination:
   PagerSize: 5
 theme: PaperMod
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 languages:
   en-us:
     languageName: "English"
@@ -51,15 +55,15 @@ params:
     safari_pinned_tab: /images/icon.png
   label:
     #text: Howard's Blog
-    text: My Notes
+    text: Notes
     icon: /images/icon.png
     iconHeight: 35
   homeInfoParams:
-    Title: 
-    Content: 
+    Title: Hi, I'm Howard Hsu.
+    Content: A student at National Taiwan University (NTU), majoring in Computer Science. My research interests span AI, robotics, computational neuroscience, quantum computing, and defi security.
   socialIcons:
-    - name: "email"
-      url: ""
+    - name: "github"
+      url: "https://github.com/HowardHsuuu"
 
 output:
   home:

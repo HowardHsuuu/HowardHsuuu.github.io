@@ -1,8 +1,8 @@
 ---
-title: "[LR] Unveiling Theory of Mind in Large Language Models"
-date: 2024-09-23T19:24:43+08:00
+title: "[LR] Unveiling Theory of Mind in LLMs"
+date: 2024-10-29T19:24:43+08:00
 draft: false
-tags: ["Cognitive Neuroscience", "Large Language Models"]
+tags: ["Neuroscience", "Large Language Model"]
 ---
 
 [This review is intended solely for my personal learning]
@@ -82,4 +82,4 @@ Both systems (Human Brain and LLM) contain neurons that directly respond to the 
 * Some of the papers cited in this paper
 	1. https://www.nature.com/articles/s41586-021-03184-0
 	2. https://arxiv.org/vc/arxiv/papers/2302/2302.02083v1.pdf
-* This note was written with the assistance of Generative AI, quotes from the original paper, and is based on the content and results presented in the original paper.
+* This note was written with the assistance of Generative AI and quotes from the original paper, and is based on the content and results presented in the original paper.
