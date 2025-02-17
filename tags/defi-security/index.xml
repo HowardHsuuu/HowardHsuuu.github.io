@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DeFi Security on Notes</title><link>https://HowardHsuuu.github.io/tags/defi-security/</link><description>Recent content in DeFi Security on Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2024 23:06:01 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/defi-security/index.xml" rel="self" type="application/rss+xml"/><item><title>OTSea Staking - lost 26k</title><link>https://HowardHsuuu.github.io/posts/defi-analysis/otsea-staking/</link><pubDate>Wed, 25 Sep 2024 23:06:01 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/defi-analysis/otsea-staking/</guid><description>&lt;h2 id="what-happened">What happened&lt;/h2>
+&lt;p>Staking contract, OTSeaStaking, hacked and lost 26k. Hacker exploited the contract&amp;rsquo;s logic flaw, which allowed him/her to call &amp;ldquo;withdraw&amp;rdquo; many times and got a lot more tokens than he staked.&lt;/p>
+&lt;h2 id="the-problem">The problem&lt;/h2>
+&lt;p>In &lt;a href="https://etherscan.io/address/0x5da151b95657e788076d04d56234bd93e409cb09#code%23F21%23L396">line 396 of OTSeaStaking.sol&lt;/a>, you can see that &lt;code>deposit.amount&lt;/code> is not handled properly (not decreased); therefore, one can deposit once and withdraw multiple times.&lt;/p>
+&lt;h2 id="poc">PoC&lt;/h2>
+&lt;p>The PoC of this incident I wrote can be found &lt;a href="https://github.com/HowardHsuuu/DeFiHackLabs?tab=readme-ov-file#20240913-OTSeaStaking---Logic-Flaw">here&lt;/a>&lt;/p>
+&lt;h2 id="reference">Reference&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://app.blocksec.com/explorer/tx/eth/0x90b4fcf583444d44efb8625e6f253cfcb786d2f4eda7198bdab67a54108cd5f4">transaction hash&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nickfranklin.site/2024/09/13/otsea-staking-hacked/">https://nickfranklin.site/2024/09/13/otsea-staking-hacked/&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
