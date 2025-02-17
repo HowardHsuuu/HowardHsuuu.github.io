@@ -1,4 +1,4 @@
 ---
-title: ''
-draft: true
+title: 'DeFi Hack Analysis'
+draft: false
 ---
