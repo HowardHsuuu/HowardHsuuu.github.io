@@ -60,7 +60,7 @@ params:
     iconHeight: 35
   homeInfoParams:
     Title: Hi, I'm Howard Hsu.
-    Content: A student at National Taiwan University (NTU), majoring in Computer Science. My research interests span AI, robotics, computational neuroscience, quantum computing, and defi security.
+    Content:
   socialIcons:
     - name: "github"
       url: "https://github.com/HowardHsuuu"
