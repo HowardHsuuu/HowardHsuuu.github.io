@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>EEG on Notes</title><link>https://HowardHsuuu.github.io/tags/eeg/</link><description>Recent content in EEG on Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 22 Mar 2025 19:21:17 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/eeg/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] Swarm Intelligence for EEG Channel Selection in Emotion Recognition</title><link>https://HowardHsuuu.github.io/posts/lr/eeg-emotion-recognition/</link><pubDate>Sat, 22 Mar 2025 19:21:17 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/eeg-emotion-recognition/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;p>Paper Info&lt;/p>
+&lt;blockquote>
+&lt;p>DOI: &lt;a href="https://doi.org/10.1007/978-3-031-05409-9_23">10.1007/978-3-031-05409-9_23&lt;/a>&lt;br>
+Title: A Swarm Intelligence Approach: Combination of Different EEG-Channel Optimization Techniques to Enhance Emotion Recognition&lt;br>
+Authors: Sabahudin Balic, Lukas Kleybolte, and Christian Märtin&lt;/p>&lt;/blockquote>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>EEG-based Emotion Recognition&lt;/strong>: EEG captures electrical brain activity via multiple electrodes. Its high temporal resolution makes it suitable for decoding emotional states in real-time. However, the full 32-channel setup is often computationally expensive and redundant.&lt;/li>
+&lt;li>&lt;strong>Swarm Intelligence&lt;/strong>: Algorithms like Particle Swarm Optimization (PSO), Cuckoo Search (CS), and Grey Wolf Optimizer (GWO) mimic social behavior of animals to solve optimization problems.&lt;/li>
+&lt;li>&lt;strong>Feature vs. Channel Selection&lt;/strong>: Traditional feature selection targets discriminative features across frequency bands, while channel selection focuses on spatially optimizing electrode positions.&lt;/li>
+&lt;/ul>
+&lt;h2 id="goal">Goal&lt;/h2>
+&lt;p>To evaluate and compare different EEG channel selection techniques—both classical and swarm intelligence-based—to optimize emotion classification performance while significantly reducing computation time.&lt;/p></description></item></channel></rss>
