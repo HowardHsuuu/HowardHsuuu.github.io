@@ -2,7 +2,7 @@
 title: "[LR] TD-MPC2"
 date: 2024-11-21T20:32:33+08:00
 draft: false
-tags: ["Reinforcement Learning", "Roboticse"]
+tags: ["Reinforcement Learning", "Robotics"]
 ---
 
 [This review is intended solely for my personal learning]

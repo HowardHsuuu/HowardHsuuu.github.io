@@ -2,7 +2,7 @@
 title: "[LR] quEEGNet: QAI for Biosignal Processing"
 date: 2025-02-11T19:51:02+08:00
 draft: false
-tags: ["Quantum Machine Learning", "Biosignal"]
+tags: ["Quantum Machine Learning", "EEG"]
 ---
 
 [This review is intended solely for my personal learning]
