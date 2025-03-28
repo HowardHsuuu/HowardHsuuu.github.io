@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Activation Engineering on Notes</title><link>https://HowardHsuuu.github.io/tags/activation-engineering/</link><description>Recent content in Activation Engineering on Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 26 Mar 2025 20:12:03 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/activation-engineering/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] Steering Language Models With Activation Engineering</title><link>https://HowardHsuuu.github.io/posts/lr/actadd/</link><pubDate>Wed, 26 Mar 2025 20:12:03 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/actadd/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;h2 id="paper-info">Paper Info&lt;/h2>
+&lt;blockquote>
+&lt;p>arXiv: 2308.10248&lt;br>
+Title: Steering Language Models With Activation Engineering&lt;br>
+Authors: Alexander Matt Turner, David Udell, Nantas Nardelli, Sam Ringer, Tom McGrath, Eric Michaud, Mantas Mazeika&lt;/p>&lt;/blockquote>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Steering Language Models&lt;/strong>: Traditionally achieved through techniques such as prompt engineering, fine-tuning, and reinforcement learning from human feedback (RLHF), which often require substantial computational resources and specialized datasets.&lt;/li>
+&lt;li>&lt;strong>Internal Activation Manipulation&lt;/strong>: Exploring internal activations of neural networks can offer fine-grained control over their outputs without the cost associated with retraining or extensive model tuning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="goal">Goal&lt;/h2>
+&lt;p>The paper aims to introduce and validate a lightweight inference-time technique, termed &lt;strong>Activation Addition (ActAdd)&lt;/strong>, for steering the output of large language models (LLMs). This method targets latent capabilities of LLMs, such as controlled sentiment expression or reduced output toxicity, without the need for additional training.&lt;/p></description></item></channel></rss>

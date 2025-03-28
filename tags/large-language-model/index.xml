@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Large Language Model on Notes</title><link>https://HowardHsuuu.github.io/tags/large-language-model/</link><description>Recent content in Large Language Model on Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 02 Nov 2024 20:02:13 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/large-language-model/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] LLMs Enhancement via Negative Emotional Stimuli</title><link>https://HowardHsuuu.github.io/posts/lr/negativeprompt/</link><pubDate>Sat, 02 Nov 2024 20:02:13 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/negativeprompt/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Large Language Model on Notes</title><link>https://HowardHsuuu.github.io/tags/large-language-model/</link><description>Recent content in Large Language Model on Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 25 Mar 2025 20:12:03 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/large-language-model/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] Representation Engineering: Top-Down AI Transparency</title><link>https://HowardHsuuu.github.io/posts/lr/repe/</link><pubDate>Tue, 25 Mar 2025 20:12:03 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/repe/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;p>Paper Info&lt;/p>
+&lt;blockquote>
+&lt;p>arXiv: 2310.01405v4&lt;br>
+Title: Representation Engineering: A Top-Down Approach to AI Transparency&lt;br>
+Authors: Evan Hubinger, Ajeya Cotra, Buck Shlegeris, Tom Lieberum, Nicholas Joseph, Owain Evans, Nicholas Schiefer, Oliver Zhang, Jan Brauner, Collin Burns, Leo Gao, Ryan Greenblatt&lt;/p>&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Interpretability in AI&lt;/strong>: Traditional approaches often focus on low-level features such as neurons or circuits. However, such bottom-up analysis struggles with high-level abstractions like honesty or power-seeking.&lt;/li>
+&lt;li>&lt;strong>Representation Learning&lt;/strong>: Neural networks form internal embeddings of concepts during training, enabling powerful generalization and emergent behavior.&lt;/li>
+&lt;li>&lt;strong>Mechanistic Interpretability&lt;/strong>: Aims to reverse-engineer model internals to understand reasoning processes, but often lacks tools for directly modifying internal representations to improve safety.&lt;/li>
+&lt;li>&lt;strong>Transparency and Alignment&lt;/strong>: Transparency is critical for ensuring model behavior is aligned with human intentions and values, particularly to avoid deceptive alignment and inner misalignment.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="goal">Goal&lt;/h2>
+&lt;p>The paper proposes and develops &lt;strong>Representation Engineering (RepE)&lt;/strong>, a new top-down framework for interpretability and model control. Rather than focusing on neurons or circuits, RepE centers on &lt;strong>representations&lt;/strong> of high-level cognitive concepts and aims to understand, detect, and manipulate them. The core goal is to advance transparency methods that are directly useful for improving &lt;strong>AI safety&lt;/strong>, including controlling undesirable behaviors like deception or power-seeking.&lt;/p></description></item><item><title>[LR] LLMs Enhancement via Negative Emotional Stimuli</title><link>https://HowardHsuuu.github.io/posts/lr/negativeprompt/</link><pubDate>Sat, 02 Nov 2024 20:02:13 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/negativeprompt/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
 &lt;h2 id="paper-info">Paper Info&lt;/h2>
 &lt;blockquote>
 &lt;p>arXiv: 2405.02814&lt;br>
