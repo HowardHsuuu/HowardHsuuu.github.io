@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neuroscience on Notes</title><link>https://HowardHsuuu.github.io/tags/neuroscience/</link><description>Recent content in Neuroscience on Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 29 Oct 2024 19:24:43 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/neuroscience/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] Unveiling Theory of Mind in LLMs</title><link>https://HowardHsuuu.github.io/posts/lr/llm-tom/</link><pubDate>Tue, 29 Oct 2024 19:24:43 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/llm-tom/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neuroscience on Notes</title><link>https://HowardHsuuu.github.io/tags/neuroscience/</link><description>Recent content in Neuroscience on Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 17 Mar 2025 15:32:01 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/neuroscience/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] Predicting Whole-Brain Neural Dynamics from Prefrontal Cortex fNIRS Signal</title><link>https://HowardHsuuu.github.io/posts/lr/fnirs2fmri/</link><pubDate>Mon, 17 Mar 2025 15:32:01 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/fnirs2fmri/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;p>Paper Info&lt;/p>
+&lt;blockquote>
+&lt;p>DOI: &lt;a href="https://doi.org/10.1101/2024.11.17.623979">10.1101/2024.11.17.623979&lt;/a>&lt;br>
+Title: Predicting whole-brain neural dynamics from prefrontal cortex fNIRS signal during movie-watching&lt;br>
+Authors: Shan Gao, Ryleigh Nash, Shannon Burns, Yuan Chang Leong&lt;/p>&lt;/blockquote>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;p>Functional near-infrared spectroscopy (fNIRS) offers a more accessible alternative to functional magnetic resonance imaging (fMRI) but is limited by shallow cortical penetration. Prior research has demonstrated potential in predicting deep-brain fMRI signals from fNIRS data through linear predictive models trained on simultaneous fMRI and fNIRS measurements.&lt;/p></description></item><item><title>[LR] The Flatland Fallacy</title><link>https://HowardHsuuu.github.io/posts/lr/flatland-fallacy/</link><pubDate>Sun, 09 Feb 2025 20:01:09 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/flatland-fallacy/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;p>Paper Info&lt;/p>
+&lt;blockquote>
+&lt;p>DOI: 10.1111/tops.12404&lt;br>
+Title: The Flatland Fallacy: Moving Beyond Low–Dimensional Thinking&lt;br>
+Authors: Eshin Jolly, Luke J. Chang&lt;/p>&lt;/blockquote>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;p>Psychological and cognitive sciences have long relied on simplified, low-dimensional models to explain complex human behavior. While these models provide theoretical clarity and empirical tractability, they often fail to capture the full intricacy of psychological phenomena. The reliance on two-factor or low-dimensional frameworks—such as dual-process theories of cognition—raises concerns about scientific oversimplification.&lt;/p></description></item><item><title>[LR] The Emerging Science of Interacting Minds</title><link>https://HowardHsuuu.github.io/posts/lr/interacting-minds/</link><pubDate>Sat, 08 Feb 2025 18:28:13 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/interacting-minds/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
+&lt;p>Paper Info&lt;/p>
+&lt;blockquote>
+&lt;p>DOI: 10.1177/17456916231200177&lt;br>
+Title: The Emerging Science of Interacting Minds&lt;br>
+Authors: Thalia Wheatley, Mark A. Thornton, Arjen Stolk, and Luke J. Chang&lt;/p>&lt;/blockquote>
+&lt;h2 id="prior-knowledge">Prior Knowledge&lt;/h2>
+&lt;p>Historically, psychology has focused on the individual, often isolating cognitive processes within a single brain. However, social interaction is fundamental to human cognition, development, and collective behavior. While past research in social psychology and neuroscience has explored elements of interaction, methodological constraints have limited empirical studies that directly analyze interaction dynamics.&lt;/p></description></item><item><title>[LR] Unveiling Theory of Mind in LLMs</title><link>https://HowardHsuuu.github.io/posts/lr/llm-tom/</link><pubDate>Tue, 29 Oct 2024 19:24:43 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/llm-tom/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
 &lt;p>Paper Info&lt;/p>
 &lt;blockquote>
 &lt;p>arXiv:2309.01660&lt;br>

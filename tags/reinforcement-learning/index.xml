@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reinforcement Learning on Notes</title><link>https://HowardHsuuu.github.io/tags/reinforcement-learning/</link><description>Recent content in Reinforcement Learning on Notes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 20:32:33 +0800</lastBuildDate><atom:link href="https://HowardHsuuu.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>[LR] TD-MPC2</title><link>https://HowardHsuuu.github.io/posts/lr/tdmpc2/</link><pubDate>Thu, 21 Nov 2024 20:32:33 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/tdmpc2/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
-&lt;h2 id="paper-info">Paper Info&lt;/h2>
+&lt;p>Paper Info&lt;/p>
 &lt;blockquote>
 &lt;p>Title: TD-MPC2: Scalable, Robust World Models for Continuous Control&lt;br>
 Authors: Nicklas Hansen, Hao Su, Xiaolong Wang&lt;br>

@@ -15,7 +15,7 @@ Authors: Evan Hubinger, Ajeya Cotra, Buck Shlegeris, Tom Lieberum, Nicholas Jose
 &lt;hr>
 &lt;h2 id="goal">Goal&lt;/h2>
 &lt;p>The paper proposes and develops &lt;strong>Representation Engineering (RepE)&lt;/strong>, a new top-down framework for interpretability and model control. Rather than focusing on neurons or circuits, RepE centers on &lt;strong>representations&lt;/strong> of high-level cognitive concepts and aims to understand, detect, and manipulate them. The core goal is to advance transparency methods that are directly useful for improving &lt;strong>AI safety&lt;/strong>, including controlling undesirable behaviors like deception or power-seeking.&lt;/p></description></item><item><title>[LR] LLMs Enhancement via Negative Emotional Stimuli</title><link>https://HowardHsuuu.github.io/posts/lr/negativeprompt/</link><pubDate>Sat, 02 Nov 2024 20:02:13 +0800</pubDate><guid>https://HowardHsuuu.github.io/posts/lr/negativeprompt/</guid><description>&lt;p>[This review is intended solely for my personal learning]&lt;/p>
-&lt;h2 id="paper-info">Paper Info&lt;/h2>
+&lt;p>Paper Info&lt;/p>
 &lt;blockquote>
 &lt;p>arXiv: 2405.02814&lt;br>
 Title: NegativePrompt: Leveraging Psychology for Large Language Models Enhancement via Negative Emotional Stimuli&lt;br>
