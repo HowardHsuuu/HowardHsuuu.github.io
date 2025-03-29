@@ -7,7 +7,7 @@ tags: ["Reinforcement Learning", "Robotics"]
 
 [This review is intended solely for my personal learning]
 
-## Paper Info
+Paper Info
 > Title: TD-MPC2: Scalable, Robust World Models for Continuous Control  
 > Authors: Nicklas Hansen, Hao Su, Xiaolong Wang  
 > Conference: ICLR 2024  

@@ -7,7 +7,7 @@ tags: ["Large Language Model"]
 
 [This review is intended solely for my personal learning]
 
-## Paper Info
+Paper Info
 > arXiv: 2405.02814  
 > Title: NegativePrompt: Leveraging Psychology for Large Language Models Enhancement via Negative Emotional Stimuli  
 > Authors: Xu Wang, Cheng Li, Yi Chang, Jindong Wang, Yuan Wu  

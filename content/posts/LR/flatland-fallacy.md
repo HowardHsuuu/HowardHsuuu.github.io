@@ -2,12 +2,12 @@
 title: "[LR] The Flatland Fallacy"
 date: 2025-02-09T20:01:09+08:00
 draft: false
-tags: ["Cognitive Science"]
+tags: ["Neuroscience"]
 ---
 
 [This review is intended solely for my personal learning]
 
-## Paper Info
+Paper Info
 > DOI: 10.1111/tops.12404  
 > Title: The Flatland Fallacy: Moving Beyond Low–Dimensional Thinking  
 > Authors: Eshin Jolly, Luke J. Chang  

@@ -7,7 +7,7 @@ tags: ["Learning Science"]
 
 [This review is intended solely for my personal learning]
 
-## Paper Info
+Paper Info
 > DOI: 10.1177/1529100612453266  
 > Title: Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology  
 > Authors: John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, and Daniel T. Willingham  

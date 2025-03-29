@@ -7,7 +7,7 @@ tags: ["Large Language Models", "Activation Engineering"]
 
 [This review is intended solely for my personal learning]
 
-## Paper Info
+Paper Info
 > arXiv: 2308.10248  
 > Title: Steering Language Models With Activation Engineering  
 > Authors: Alexander Matt Turner, David Udell, Nantas Nardelli, Sam Ringer, Tom McGrath, Eric Michaud, Mantas Mazeika

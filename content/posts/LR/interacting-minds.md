@@ -2,12 +2,12 @@
 title: "[LR] The Emerging Science of Interacting Minds"
 date: 2025-02-08T18:28:13+08:00
 draft: false
-tags: ["Cognitive Science"]
+tags: ["Neuroscience"]
 ---
 
 [This review is intended solely for my personal learning]
 
-## Paper Info
+Paper Info
 > DOI: 10.1177/17456916231200177  
 > Title: The Emerging Science of Interacting Minds  
 > Authors: Thalia Wheatley, Mark A. Thornton, Arjen Stolk, and Luke J. Chang  
