@@ -1,5 +1,5 @@
 ---
-title: "OTSea Staking - lost 26k"
+title: "OTSea Staking - lost 26k due to a logic flaw in their contract"
 date: 2024-09-25T23:06:01+08:00
 draft: false
 tags: ["DeFi Security"]
